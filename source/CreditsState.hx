@@ -81,8 +81,8 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color 
-			['Android Port'],
-			['glauber01', 'glauber01', 'Hi,I ported this mod in apk','https://youtube.com/@Glauber_BFSoulEvilYTOFC', 'FFFFFF'],
+			['APK Port By'],
+			['userkilz', 'userkilz', 'Hi, I Ported Is Mod In APK','https://www.youtube.com/@userkilz', 'FFFFFF'],
 			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
