@@ -1143,7 +1143,7 @@ class PlayState extends MusicBeatState
 		botplayTxt.visible = cpuControlled;
       add(botplayTxt);
 	var creditTxt = new FlxText(876, 648, 348);
-     creditTxt.text = "Ported By\nglauber01";
+     creditTxt.text = "PORTED BY\nuserkilz";
     creditTxt.setFormat(Paths.font("vcr.ttf"), 30, FlxColor.WHITE, RIGHT, FlxTextBorderStyle.OUTLINE,FlxColor.BLACK);
     creditTxt.scrollFactor.set();
     add(creditTxt);
